@@ -1,38 +1,22 @@
-import os
-import zipfile
+# 🤖 AI Automation Agency - Setup & Execution
 
-# Create directory structure for AI Automation Agency
-repo_dir = "ai-automation-agency"
-src_dir = os.path.join(repo_dir, "src")
-docs_dir = os.path.join(repo_dir, "docs")
-
-os.makedirs(src_dir, exist_ok=True)
-os.makedirs(docs_dir, exist_ok=True)
-
-# 1. README.md
-readme_content = """# 🤖 AI Automation Agency - Setup & Execution
-
-> Complete documentation, installation guides, operational blueprints, and core automation engine for launching and scaling an AI Automation Agency.
+> Complete documentation, installation guides, and operational blueprints for launching and scaling an AI Automation Agency.
 
 ---
 
 ## 📖 Included Documentation & Manuals
-Find the complete setup and deployment manuals inside the [`docs/`](./docs) directory:
-* **Installation Manual:** `docs/AI Automation Agency Installation Manual.pdf`
-* **Installation Guide:** `docs/AI Automation Agency Installation Guide.pdf`
-* **Execution & Deployment:** `docs/AI Automation Agency Execution & Deployment.pdf`
+* **Installation Manual:** Open `AI Automation Agency Installation Manual.pdf` uploaded in this repository.
+* **Installation Guide:** Open `AI Automation Agency Installation Guide.pdf` uploaded in this repository.
+* **Execution & Deployment:** Open `AI Automation Agency Execution & Deployment.pdf` uploaded in this repository.
 
 ---
 
-## ⚡ Core Automation Engine (`src/`)
+## ⚡ Quick Start
+1. Download or view the PDF guides above directly in this repository for step-by-step agency workflows.
+2. Follow the client onboarding and system deployment strategies outlined in the blueprints.
 
-### 1. Requirements & Prerequisites
-* Python 3.9 or higher installed.
-* OpenAI API key or compatible LLM endpoint.
+---
 
-### 2. Installation
-Clone or download this repository and install required dependencies:
-```bash
-git clone [https://github.com/your-username/ai-automation-agency.git](https://github.com/your-username/ai-automation-agency.git)
-cd ai-automation-agency
-pip install -r src/requirements.txt
+## 🛒 Store & Official Upgrades
+For full tool updates, advanced automation packages, and multi-tool bundles:
+👉 **[Visit our Payhip Store](https://payhip.com)**
